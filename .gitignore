@@ -1,4 +1,6 @@
 *.pth
 *.txt
 data/
-
+runs/
+*.zip
+*.csv
